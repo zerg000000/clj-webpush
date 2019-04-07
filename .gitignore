@@ -1,0 +1,20 @@
+# Clojure
+
+.cpcache
+target/
+.nrepl-port
+
+# Intellij
+
+*.iml
+.idea/
+
+# WebPush Test Service
+
+cli.log
+module.log
+.node-persist/
+
+# MacOSX
+
+.DS_Store
